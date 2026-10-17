@@ -12,9 +12,9 @@
   </parent>
 
   <groupId>com.courierpyme</groupId>
-  <artifactId>ms-courierpyme-notify</artifactId>
+  <artifactId>ms-courierpyme-rabbit-admin</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>ms-courierpyme-notify</name>
+  <name>ms-courierpyme-rabbit-admin</name>
 
   <properties>
     <java.version>21</java.version>
