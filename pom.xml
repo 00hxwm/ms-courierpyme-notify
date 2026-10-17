@@ -12,7 +12,7 @@
   </parent>
 
   <groupId>com.courierpyme</groupId>
-  <artifactId>ms-courierpyme-rabbit-admin</artifactId>
+  <artifactId>ms-courierpyme-notify</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>ms-courierpyme-rabbit-admin</name>
 
