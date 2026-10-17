@@ -13,7 +13,7 @@ spring:
         retry:
           enabled: false
 
-  logging:
-    level:
-      org.springframework.amqp: DEBUG
-      com.courierpyme: DEBUG
+logging:
+  level:
+    org.springframework.amqp: DEBUG
+    com.courierpyme: DEBUG
