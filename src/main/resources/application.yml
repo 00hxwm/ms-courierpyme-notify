@@ -12,3 +12,8 @@ spring:
         prefetch: 1
         retry:
           enabled: false
+
+  logging:
+    level:
+      org.springframework.amqp: DEBUG
+      com.courierpyme: DEBUG
