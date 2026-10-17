@@ -1,4 +1,4 @@
-package main.java.com.courierpyme.messaging;
+package com.courierpyme.messaging;
 
 import org.springframework.stereotype.Component;
 import java.util.Set;

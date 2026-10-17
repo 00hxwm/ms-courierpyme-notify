@@ -1,4 +1,4 @@
-package main.java.com.courierpyme.messaging;
+package com.courierpyme.messaging;
 
 import com.rabbitmq.client.Channel;
 import org.slf4j.Logger;

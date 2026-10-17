@@ -1,4 +1,4 @@
-package main.java.com.courierpyme.messaging;
+package com.courierpyme.messaging;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import java.util.Map;
